@@ -1,2 +1,2 @@
 # Rare-Events-with-Heavy-Tails
-Looked at a paper on rare event simulation with heavy tailed and implemented similar VRT methods as in the paper and in my STAT906 class
+Looked at a paper on rare event simulation with heavy tailed and implemented similar VRT methods as in the paper and in my STAT906 class. MeRQMCthods were Naive Monte Carlo, Conditional Monte Carlo, combining Control Variates, Stratification, and RQMC with the version of Conditional Monte Carlo in the paper that was said to reduce the variance the most and found that combining these added a greater reduction and RQMC was the best reduction found.
